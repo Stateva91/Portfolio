@@ -231,16 +231,19 @@ span {
     border-radius: 0.5rem;
 }
 .html-bar {
-    width: 94%;
+    width: 80%;
+}
+.java-bar {
+    width: 75%;
 }
 .css-bar {
-    width: 84%;
+    width: 50%;
 }
 .js-bar {
-    width: 74%;
+    width: 50%;
 }
-.react-bar {
-    width: 80%;
+.mysql-bar {
+    width: 70%;
 }
 .services-container {
     display: grid;
