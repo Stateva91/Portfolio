@@ -58,7 +58,7 @@
               I educate and drive myself to be a better person and constantly learn because I never settle. 
               I always pay great attention to detail and try to give the best ideas. 
               I am motivated and have excellent analytical skills, logical thinking, and problem-solving skills.</p>
-       <!--<a href="#contact" class="btn">Download CV</a>--> 
+       <a  class="btn" href="mailto:snejigeorgieva@hotmail.com">Contact me</a>
  
       </div>
       
@@ -195,11 +195,14 @@
             <span>Connect With Me </span> 
         </div>
             <div class="contact-form">
-            <form action="#">
-                <input type="text" placeholder="Your Name">
-                <input type="email" name="" id="" placeholder="Your Email">
-                <textarea name="" id="" cols="30" rows="10" placeholder="Write Message Here..."></textarea>
-                <input type="button" value="Send" class="contact-button">
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" name="name" id="name" placeholder="Your Name" required>
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" placeholder="Your Email" required>
+                <label for="email">Message:</label>
+                <textarea name="message" id="message" cols="30" rows="10" placeholder="Write Message Here..." required></textarea>
+                <input type="submit" value="Send" class="contact-button">
             </form>
         </div> 
     </section>
