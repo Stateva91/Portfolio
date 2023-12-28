@@ -609,7 +609,7 @@ a, a:focus {
   .progress__js,
   .progress__react,
   .progress__java,
-  .progress__bootstrap {
+  .progress__mySql {
     background: #e9ecef;
     margin-bottom: 24px;
     justify-content: flex-start;
