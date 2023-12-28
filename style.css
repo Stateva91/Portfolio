@@ -33,7 +33,7 @@ html{
     scroll-behavior: smooth;
 }
 .header{
-    height: 3em;
+    height: 2em;
     display: flex;
     justify-content: space-around;
     font-size: 2em;
@@ -280,7 +280,7 @@ a, a:focus {
     background-repeat: no-repeat;
     background-position: center center;
     height: 100vh;
-    margin-top: 80px;
+/*     margin-top: 80px; */
     color: var(--white__color);
   }
   
@@ -295,7 +295,7 @@ a, a:focus {
     align-items: center;
     justify-content: center;
     height: 100%;
-    margin-top: 80px;
+/*     margin-top: 80px; */
   }
   
   .home__intro {
