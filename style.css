@@ -1207,8 +1207,8 @@ a, a:focus {
       font-weight: 200;
       font-size: 22px;
   }
-      #abput{
-          padding: 0.1em;
+      #about{
+             padding: 100px 0px;
   }
       .resume__column, .skills__column {
     width:22em;
